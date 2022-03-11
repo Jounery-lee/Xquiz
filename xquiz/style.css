@@ -1,0 +1,11 @@
+h1, #button, #quiz, .본문{
+  text-align:center;
+}
+#quiz{
+  margin-top:150px;
+  font-size:100px;
+}
+.본문{
+  margin-top:50px;
+  font-size:20px;
+}
